@@ -1,4 +1,4 @@
-# Node.js – Style of the console test
+# Node.js – Style of the console text
 A node.js package for managing the style of the console text.
 
 [![Build Status](https://travis-ci.org/bart96-b/node-style.svg)](https://travis-ci.org/bart96-b/node-style)
