@@ -1,5 +1,5 @@
 const assert = require('assert');
-const style = require('../lib/style');
+const style = require('../src/style');
 
 
 describe('Тестирование', () => {
