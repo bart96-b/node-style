@@ -1,8 +1,8 @@
 {
   "name": "bart96-style",
-  "version": "0.0.0-alpha",
-  "description": "A node.js package for managing the style of the console test.",
-  "main": "lib/style",
+  "version": "0.0.1-alpha",
+  "description": "A node.js package for managing the style of the console text.",
+  "main": "src/style",
   "scripts": {
     "test": "mocha"
   },
@@ -11,10 +11,9 @@
     "url": "git+https://github.com/bart96-b/node-style.git"
   },
   "keywords": [
+    "style",
     "color",
-    "colors",
-    "cli-color",
-    "cli-colors"
+    "colors"
   ],
   "author": "BART96",
   "license": "MIT",
@@ -23,7 +22,7 @@
   },
   "homepage": "https://github.com/bart96-b/node-style#readme",
   "engines": {
-    "node": ">=9"
+    "node": ">=8"
   },
   "devDependencies": {
     "mocha": "^5.2.0"
